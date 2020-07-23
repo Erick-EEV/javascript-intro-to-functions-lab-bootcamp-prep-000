@@ -11,7 +11,7 @@ function logWhisper(string){
   console.log(string.toLowerCase());
 }
 function sayHiToGramdma(string){
-  if (string === sayHiToGramdma.toLowerCase())
+  if (string === .toLowerCase())
   return "I can't hear you!";
   if (string === sayHiToGramdma.toUpperCase())
   return "YES INDEED!";
